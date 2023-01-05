@@ -8,6 +8,7 @@ public class TestJenkins {
 		System.out.println(greetFriends("Vihaan"));
 		System.out.println(greetFriends("Harshith"));
 		System.out.println(greetFriends("KK"));
+		System.out.println(greetFriends("Vijaya"));
 
 	}
 
